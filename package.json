@@ -1,6 +1,6 @@
 {
   "name": "vue-locality",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Vue plugin for brazillian localities",
   "main": "index.js",
   "scripts": {
@@ -29,5 +29,8 @@
     "standard-version": "^9.1.1",
     "supertest": "^6.0.1",
     "vue": "^2.6.12"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
   }
 }
