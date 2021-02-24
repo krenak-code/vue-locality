@@ -1,3 +1,5 @@
+const fetch = require('node-fetch')
+
 const Locality = {
   install: function (Vue) {
     Vue.prototype.$locality = {
